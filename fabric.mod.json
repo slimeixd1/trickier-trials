@@ -1,0 +1,18 @@
+{
+    "schemaVersion": 1,
+    "id": "trickiertrials",
+    "version": "1.0",
+    "name": "Trickier Trials",
+    "description": "A completely new Trial Experience!",
+    "authors": [
+        "Slimei"
+    ],
+    "license": "MIT license",
+    "icon": "pack.png",
+    "environment": "*",
+    "depends": {
+        "fabricloader": ">=0.12.7",
+        "fabric-api-base": "*",
+        "minecraft": ">=1.21"
+    }
+}

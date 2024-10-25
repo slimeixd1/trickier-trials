@@ -1,0 +1,131 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trial_chambers/chamber/addon/ladder/platform_1",
+        "processors": [
+          {
+            "processor_type": "minecraft:block_ignore",
+            "blocks": [
+              {
+                "Name": "minecraft:air"
+              }
+            ]
+          }
+        ],
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trial_chambers/chamber/addon/ladder/platform_2",
+        "processors": [
+          {
+            "processor_type": "minecraft:block_ignore",
+            "blocks": [
+              {
+                "Name": "minecraft:air"
+              }
+            ]
+          }
+        ],
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trial_chambers/chamber/addon/ladder/platform_3",
+        "processors": [
+          {
+            "processor_type": "minecraft:block_ignore",
+            "blocks": [
+              {
+                "Name": "minecraft:air"
+              }
+            ]
+          }
+        ],
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trial_chambers/chamber/addon/ladder/platform_4",
+        "processors": [
+          {
+            "processor_type": "minecraft:block_ignore",
+            "blocks": [
+              {
+                "Name": "minecraft:air"
+              }
+            ]
+          }
+        ],
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trial_chambers/chamber/addon/ladder/platform_5",
+        "processors": [
+          {
+            "processor_type": "minecraft:block_ignore",
+            "blocks": [
+              {
+                "Name": "minecraft:air"
+              }
+            ]
+          }
+        ],
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trial_chambers/chamber/addon/ladder/hanging_platform_1",
+        "processors": [
+          {
+            "processor_type": "minecraft:block_ignore",
+            "blocks": [
+              {
+                "Name": "minecraft:air"
+              }
+            ]
+          }
+        ],
+        "projection": "rigid"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trial_chambers/chamber/addon/ladder/hanging_platform_2",
+        "processors": [
+          {
+            "processor_type": "minecraft:block_ignore",
+            "blocks": [
+              {
+                "Name": "minecraft:air"
+              }
+            ]
+          }
+        ],
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

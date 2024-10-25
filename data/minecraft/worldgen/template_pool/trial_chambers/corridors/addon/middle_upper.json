@@ -1,0 +1,55 @@
+{
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:empty_pool_element"
+        },
+        "weight": 8
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trial_chambers/corridor/addon/top_spawner",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 5
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trial_chambers/corridor/addon/top_bridge",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trial_chambers/corridor/addon/top_dispenser_bridge",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trial_chambers/corridor/addon/top_gap_bridge",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 2
+      }
+    ],
+    "fallback": "minecraft:empty"
+  }
